@@ -1,3 +1,3 @@
 ```python
-("Algoritma ve programlama 2 proje odevidir.
+print("Algoritma ve programlama 2 proje odevidir.
 ```
