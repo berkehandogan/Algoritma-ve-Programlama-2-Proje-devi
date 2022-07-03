@@ -1,1 +1,1 @@
-Algoritma ve Proglama 2 proje ödevidir.
+Algoritma ve Programlama 2 proje ödevidir.
