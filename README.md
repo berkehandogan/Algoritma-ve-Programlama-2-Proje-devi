@@ -1,1 +1,3 @@
-Algoritma ve Programlama 2 proje ödevidir.
+```python
+("Algoritma ve programlama 2 proje odevidir.
+```
