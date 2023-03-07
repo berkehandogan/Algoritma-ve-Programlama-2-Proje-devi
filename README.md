@@ -1,3 +1,3 @@
-```python
-print("Algoritma ve programlama 2 proje odevidir.")
+```C
+printf("Algoritma ve programlama 2 proje odevidir.")
 ```
